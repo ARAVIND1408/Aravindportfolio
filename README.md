@@ -1,3 +1,3 @@
-# JayPortfolio
-Personal Portfolio of Jay Dee. 
-It is a Responsive Portfolio Website
+# Aravind Portfolio
+Personal Portfolio of Aravind . 
+It is a Portfolio Website
